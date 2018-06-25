@@ -19,3 +19,5 @@
 | Java     | Done     | No Man's Asteroid | Asteroids clone
 | C++      | Done     | RIB               | Image feature detection part for bipedal ROS line follower
 | GML      | Failed   | Grappler          | GM48 attempt as making asteroids, but with a grappling hook and slinging instead of shooting
+| Assembly | Done     | -                 | Brainfuck interpreter
+| Scala    | Done     | -                 | Java interpreter
