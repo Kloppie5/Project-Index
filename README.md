@@ -2,11 +2,12 @@
 
 | Lang     | Progress           | Name                     | Description
 | :------- | :----------------- | :----------------------- | :---
-| GDScript | Active Development | **PROPRIETARY**          | **PROPRIETARY**
+| GDScript | Done               | **PROPRIETARY**          | **PROPRIETARY**; 11 week full-time project
 | C#       | Struggling         | Crypt of the Neurodancer | Machine learning bot for Crypt of the Necrodancer
-| Node.js  | On the backburner  | Robit                    | Discord server manager
+| Node.js  | On Hold            | Robit                    | Discord server manager
 | C# / C++ | Done               | Nerve                    | Linking system between Perception Neuron and Unity
-
+| Website  | In Progress        | Relic Gods               | Website for damage overview for Relic Gods clan in Tap Titans 2
+| C#       | In Progress        | Cyanide                  | Process controller and overlay
 
 # Miniature projects
 
