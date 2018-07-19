@@ -1,13 +1,13 @@
 # Big projects
 
-| Lang     | Progress           | Name                     | Description
-| :------- | :----------------- | :----------------------- | :---
-| GDScript | Done               | **PROPRIETARY**          | **PROPRIETARY**; 11 week full-time project
-| C#       | Struggling         | Crypt of the Neurodancer | Machine learning bot for Crypt of the Necrodancer
-| Node.js  | On Hold            | Robit                    | Discord server manager
-| C# / C++ | Done               | Nerve                    | Linking system between Perception Neuron and Unity
-| Website  | In Progress        | Relic Gods               | Website for damage overview for Relic Gods clan in Tap Titans 2
-| C#       | In Progress        | Cyanide                  | Process controller and overlay
+| Lang     | Progress           | Name                                                 | Description
+| :------- | :----------------- | :--------------------------------------------------- | :---
+| GDScript | Done               | **PROPRIETARY**                                      | **PROPRIETARY**; 11 week full-time project
+| C#       | Struggling         | Crypt of the Neurodancer                             | Machine learning bot for Crypt of the Necrodancer
+| Node.js  | On Hold            | Robit                                                | Discord server manager
+| C# / C++ | Done               | Nerve                                                | Linking system between Perception Neuron and Unity
+| Website  | In Progress        | [Relic Gods](https://github.com/Kloppie5/Relic-Gods) | [Website](https://kloppie5.github.io/Relic-Gods/) for damage overview for Relic Gods clan in Tap Titans 2
+| C#       | In Progress        | Cyanide                                              | Process controller and overlay
 
 # Miniature projects
 
