@@ -1,24 +1,39 @@
-# Big projects
+# "Active" Projects
 
-| Lang     | Progress           | Name                                                 | Description
-| :------- | :----------------- | :--------------------------------------------------- | :---
-| GDScript | Done               | **PROPRIETARY**                                      | **PROPRIETARY**; 11 week full-time project
-| C#       | Struggling         | Crypt of the Neurodancer                             | Machine learning bot for Crypt of the Necrodancer
-| Node.js  | On Hold            | Robit                                                | Discord server manager
-| C# / C++ | Done               | Nerve                                                | Linking system between Perception Neuron and Unity
-| Website  | In Progress        | [Relic Gods](https://github.com/Kloppie5/Relic-Gods) | [Website](https://kloppie5.github.io/Relic-Gods/) for damage overview for Relic Gods clan in Tap Titans 2
-| C#       | In Progress        | Cyanide                                              | Process controller and overlay
+Projects I'm currently working on, planning on doing or haven't abandoned yet.
 
-# Miniature projects
+## Crypt of the Neurodancer
+  Crypt of the Neurodancer bot
 
-| Lang     | Progress | Name              | Description
-| :------- | :------- | :-----------------| :---
-| Java     | Done     | TwoBrains         | Tinder-like study partner finder
-| Java     | Done     | -                 | Pac-Man clone
-| Prolog   | Done     | UTBot             | Unreal Tournament 3 multi-agent bot
-| C        | Done     | -                 | Raytracer
-| Java     | Done     | No Man's Asteroid | Asteroids clone
-| C++      | Done     | RIB               | Image feature detection part for bipedal ROS line follower
-| GML      | Failed   | Grappler          | GM48 attempt as making asteroids, but with a grappling hook and slinging instead of shooting
-| Assembly | Done     | -                 | Brainfuck interpreter
-| Scala    | Done     | -                 | Java interpreter
+## DnD Client
+
+## Project Cyanide
+  Global overlay other applications can use to display information on top of everything else
+
+## Project Exploration
+  Reverse engineering and process automation tool
+
+## Project Robit (NodeJS)
+  Discord bot for server management and information retrieval.
+
+# Past Projects
+
+Projects I have completed or otherwise given up on
+
+### Brainfuck interpreter (Assembly)
+### Clashing Skies (Java)
+  Asteroids clone
+### Grappler (GML)
+  GM48 attempt at making asteroids, but with a grappling hook and slinging instead of shooting
+### Java interpreter (Scala)
+### JPac-Man (Java)
+  Pac-Man clone
+### Nerve (C#)
+  Perception Neuron MOCAP Unity Plugin
+### Raytracer (C++)
+### RIB (C++)
+  Image feature detection part for bipedal ROS line follower
+### TwoBrains (Java)
+  Tinder-like study partner finder
+### UTBot (Prolog)
+  Unreal Tournament 3 multi-agent bot
