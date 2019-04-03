@@ -2,27 +2,34 @@
 
 Projects I'm currently working on, planning on doing or haven't abandoned yet.
 
-## Crypt of the Neurodancer
+## [Crypt of the Neurodancer](https://github.com/Kloppie5/Crypt-of-the-Neurodancer)
   Crypt of the Neurodancer bot
 
-## DnD Client
+## [CTT](https://github.com/Kloppie5/CTT)
+  Client-server dungeons and dragons tabletop simulator
+
+## MHWOverlay
+  Monster Hunter World information overlay
 
 ## Project Cyanide
   Global overlay other applications can use to display information on top of everything else
 
-## Project Exploration
+## [Project Exploration](https://github.com/Kloppie5/Project-Exploration)
   Reverse engineering and process automation tool
 
-## Project Robit (NodeJS)
-  Discord bot for server management and information retrieval.
+## [Project Robit](https://github.com/Kloppie5/Project-Robit)
+  Node.js Discord bot for server management and information retrieval.
 
-# Past Projects
+## [TT2 Optimizer](https://github.com/Kloppie5/TT2-Optimizer)
+  Artifact optimizer for Tap Titans 2
 
-Projects I have completed or otherwise given up on
+# Completed Projects
 
 ### Brainfuck interpreter (Assembly)
 ### Clashing Skies (Java)
   Asteroids clone
+### Gamification project for TATA Steel Europe (GDScript)
+  Under non-disclosure
 ### Grappler (GML)
   GM48 attempt at making asteroids, but with a grappling hook and slinging instead of shooting
 ### Java interpreter (Scala)
@@ -37,3 +44,8 @@ Projects I have completed or otherwise given up on
   Tinder-like study partner finder
 ### UTBot (Prolog)
   Unreal Tournament 3 multi-agent bot
+
+# Abandoned Projects
+
+### osu beatmap difficulty analyzer
+### Tetris clone (Assembly)
