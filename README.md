@@ -20,8 +20,8 @@ Projects I'm currently working on, planning on doing or haven't abandoned yet.
 ## [Project Robit](https://github.com/Kloppie5/Project-Robit)
   Node.js Discord bot for server management and information retrieval.
 
-## [TT2 Optimizer](https://github.com/Kloppie5/TT2-Optimizer)
-  Artifact optimizer for Tap Titans 2
+## [TT2 Optimizer](https://docs.google.com/spreadsheets/d/1u1NEIueh5uc6IEWmLc8rIIRmlfcwyJfRzqnYSRAjDgA/edit?usp=sharing)
+  Optimizer for Tap Titans 2
 
 # Completed Projects
 
