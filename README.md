@@ -12,6 +12,7 @@
 | Grappler | Completed | GML | Asteroids, but with a grappling hook and slinging instead of shooting |
 | - | Completed | Scala | Java interpreter |
 | JPac-Man | Completed | Java | Pac-Man clone |
+| hexbot-random-walk | Completed | JavaScript | NOOPS Challenge: Hexbot; A random walk using hue and saturation of random colors |
 | Nerve | Completed | C# | Perception Neuron MOCAP Unity Plugin |
 | - | Completed | C++ | Raytracer |
 | RIB | Completed | C++ | Image feature detection part for bipedal ROS line follower |
