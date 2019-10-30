@@ -4,7 +4,7 @@ Memory reading machine learning bot for Crypt of the Necrodancer using a Michiga
 ### MHWOverlay
 Memory reading informational overlay for Monster Hunter World
 ### [MHW Savefile Merger](https://github.com/Kloppie5/MHW-savefile-merger)
-Savefile merger for Monster Hunter World |
+Savefile merger for Monster Hunter World
 ### [Project Robit](https://github.com/Kloppie5/Project-Robit)
 Personal Node.js Discord bot for miscellaneous tasks
 ### [TT2 Optimizer](https://docs.google.com/spreadsheets/d/1u1NEIueh5uc6IEWmLc8rIIRmlfcwyJfRzqnYSRAjDgA/edit?usp=sharing)
