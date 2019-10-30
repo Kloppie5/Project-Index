@@ -17,6 +17,7 @@ Playing around with the Spoofax Language Workbench by writing a full compiler fo
 Client-server dungeons and dragons tabletop simulator
 ### Project Exploration
 Reverse engineering and process automation tool
+### Cryptography Visualizer
 
 # Completed
 ### Brainfuck interpreter in x86 Assembly
@@ -52,3 +53,6 @@ A small graph visualizer using the GitHub API and probably something like [VivaG
 Not HackerPoet's [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) "engine", but actually non euclidean
 ### OSU Beatmap Difficulty Analyzer
 ### Tetris clone in x86 Assembly
+
+# Potential
+### Euler's Totient Function visualization/graph
