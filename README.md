@@ -56,3 +56,4 @@ Not HackerPoet's [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) "eng
 
 # Potential
 ### Euler's Totient Function visualization/graph
+### Compiler type checking scope graph visualizer
